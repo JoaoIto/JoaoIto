@@ -1,4 +1,4 @@
-## Hey!! I am a Joao!😎
+## Hey!! I am Joao!😎
 
 - Currently I am coding in JavaScript, but I will start study Typescript and angular for more projects! 😉
 - Today I am studying JavaScript EMCASCRIPT6 and Typescript📚
