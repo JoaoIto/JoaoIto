@@ -1,9 +1,9 @@
 ## Hey!! I am Joao!😊
 
-- Currently I am coding in JavaScript, but I will start study Typescript, Python and JS frameworks for more projects! 😉
-- Today I am studying JavaScript EMCASCRIPT6 and Typescript📚
-- I study in Federal Institute of Tocantins in Brazil 🌔
-- I like games, codes, musics, live streams 💥
+- **Currently I am coding in JavaScript, but I will start study Typescript, Python and JS frameworks for more projects!** 😉
+- **Today I am studying JavaScript EMCASCRIPT6 and Typescript📚**
+- **I study in Federal Institute of Tocantins in Brazil** 🌔
+- **I like games, codes, musics, live streams 💥**
 
  <div>
   <a href="https://github.com/JoaoIto">
