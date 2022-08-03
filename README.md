@@ -1,8 +1,7 @@
 ## Hey!! I am Joao!😊
 
-- **Currently I am coding in JavaScript, but I pretend study Typescript, and JS frameworks for more projects!** 😉
-- **Today I am studying JavaScript EMCASCRIPT6 and Typescript📚**
-- **I study in Federal Institute of Tocantins in Brazil** 🌔
+- **Currently I am coding in JavaScript, but I pretend study JS frameworks for more projects, and Java!** 😉
+- **I study in Estadual University of Tocantins** 🌔
 - **I like games, codes, musics, live streams 💥**
 
  <div>
@@ -16,7 +15,7 @@
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Joao-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">original.svg">
+  <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 </div>
   
