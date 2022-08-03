@@ -1,7 +1,7 @@
 ## Hey!! I am Joao!😊
 
 - **Currently I am coding in JavaScript, but I pretend study JS frameworks for more projects, and Java!** 😉
-- **I study in Estadual University of Tocantins** 🌔
+- **I study Information System in Estadual Tocantins State University** 🌔
 - **I like games, codes, musics, live streams 💥**
 
  <div>
