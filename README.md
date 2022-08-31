@@ -1,12 +1,13 @@
 ## Hey!! I am Joao!😊
 
-- **Currently I am coding in JavaScript, but I pretend study JS frameworks for more projects, and Java!** 😉
+- **Currently I am coding in JavaScript, and Java!** 😉
+- **I am front-end developer and I pretend learn more areas in coding world**🌐
 - **I study Information System in Estadual Tocantins State University** 🌔
 - **I like games, codes, musics, live streams 💥**
 
  <div>
   <a href="https://github.com/JoaoIto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoIto&show_icons=true&theme=cyberpunk&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoIto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoIto&layout=compact&langs_count=7&theme=monokai"/>
 </div>
   
