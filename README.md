@@ -4,13 +4,7 @@
 - **I am front-end developer and I pretend learn more areas in coding world**🌐
 - **I study Information System in Estadual Tocantins State University** 🌔
 - **I like games, codes, musics, live streams 💥**
-
- <div>
-  <a href="https://github.com/JoaoIto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoIto&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoIto&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
-  
+- 
   <div style="display: inline_block"><br>
   <img align="center" alt="Joao-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Joao-TSC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
