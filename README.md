@@ -2,14 +2,14 @@
 
 ```js
 const User {
-name: "JoaoIto",
-age: 17, 
-code: ["JavaScript", "TypeScript", "Java", "Python"],
-dev = () => {
-    turnOn(vsCode);
-    alert("Start code");
-    return "It's on!";
- }
+    name: "JoaoIto",
+    age: 17, 
+    code: ["JavaScript", "TypeScript", "Java", "Python"],
+    dev = () => {
+        turnOn(vsCode);
+        alert("Start code");
+        return "It's on!";
+    }
 ```
 
 - **Currently I am coding in JavaScript!** 😉
