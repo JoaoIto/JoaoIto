@@ -1,10 +1,22 @@
 ## Hey!! I am Joao!😊
 
-- **Currently I am coding in JavaScript, and Java!** 😉
+```js
+const User {
+name: "JoaoIto",
+age: 17, 
+code: ["JavaScript", "TypeScript", "Java", "Python"],
+dev = () => {
+    turnOn(vsCode);
+    alert("Start code");
+    return "It's on!";
+ }
+```
+
+- **Currently I am coding in JavaScript!** 😉
 - **I am front-end developer and I pretend learn more areas in coding world**🌐
 - **I study Information System in Estadual Tocantins State University** 🌔
 - **I like games, codes, musics, live streams 💥**
-- 
+
   <div style="display: inline_block"><br>
   <img align="center" alt="Joao-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Joao-TSC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
