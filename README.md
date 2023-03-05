@@ -18,6 +18,8 @@ const User {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoIto&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
+ ![Streak](https://streak-stats.demolab.com/?user=JoaoIto&theme=midnight-purple)
+
 - **Currently I am coding in JavaScript!** 😉
 - **I am front-end developer and I pretend learn more areas in coding world**🌐
 - **I study Information System in Estadual Tocantins State University** 🌔
