@@ -4,12 +4,19 @@
 const User {
     name: "JoaoIto",
     age: 17, 
-    code: ["JavaScript", "TypeScript", "Java", "Python"],
+    code: [
+           "JavaScript", 
+           "TypeScript", 
+           "Java", 
+           "Python"
+          ],
+
     dev = () => {
         turnOn(vsCode);
         alert("Start code");
         return "It's on!";
-    }
+      }
+}
 ```
 
  <div>
