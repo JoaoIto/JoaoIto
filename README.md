@@ -11,10 +11,13 @@ const User {
            "Python"
           ],
 
-    dev = () => {
-        turnOn(vsCode);
-        alert("Start code");
-        return "It's on!";
+    dev = (coffee, music) => {
+           this.coffee = coffee;
+           this.music = music;
+
+           coffee + music = animation;
+
+           return "It's on code! ;)"
       }
 }
 ```
