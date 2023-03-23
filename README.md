@@ -24,11 +24,11 @@ const User {
 
  <div>
   <a href="https://github.com/JoaoIto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoIto&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoIto&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoIto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoIto&layout=compact&langs_count=7&theme=algoli"/>
 </div>
 
- ![Streak](https://streak-stats.demolab.com/?user=JoaoIto&theme=midnight-purple)
+ ![Streak](https://streak-stats.demolab.com/?user=JoaoIto&theme=algolia)
 
 - **Currently I am coding in JavaScript!** 😉
 - **I am front-end developer and I pretend learn more areas in coding world**🌐
