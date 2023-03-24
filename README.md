@@ -5,7 +5,10 @@ interface User {
     name: string;
     age: number;
     code: string[];
-    dev: (coffee: string, music: string) => string;
+    dev: (
+    coffee: string, 
+    music: string) 
+    => string;
 }
 
 const user: User = {
@@ -17,7 +20,10 @@ const user: User = {
         "Java", 
         "Python"
           ],
-    dev: function(coffee: string, music: string): string {
+    dev: function(
+    coffee: string, 
+    music: string): 
+    string {
         this.coffee = coffee;
         this.music = music;
 
