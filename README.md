@@ -27,7 +27,8 @@ const user: User = {
         this.coffee = coffee;
         this.music = music;
 
-        const animation = coffee + music;
+        const animation;
+        animation = coffee + music;
 
         return "It's on code! ;)";
     }
