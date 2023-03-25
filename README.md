@@ -44,7 +44,9 @@ const user: User = {
 </div>
 
  ![Streak](https://streak-stats.demolab.com/?user=JoaoIto&theme=codeSTACKr)
-    
+  
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JoaoIto&theme=codeSTACKr)](https://github.com/JoaoIto/github-readme-activity-graph) 
+
  ## Techs:
     
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
