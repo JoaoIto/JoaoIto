@@ -1,5 +1,11 @@
 ## Hey!! I am Joao!😊
 
+- **Currently I am coding in JavaScript!** 😉
+- **I am front-end developer and I pretend learn more areas in coding world**🌐
+- **I study Information System in Estadual Tocantins State University** 🌔
+- **I like games, codes, musics, live streams 💥**
+
+
  <div>
   <a href="https://github.com/JoaoIto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoIto&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
@@ -27,11 +33,6 @@
  	<a href="https://www.twitch.tv/itocabrito" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
    <a href = "mailto:joaovictorpfr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-p%C3%B3voa-fran%C3%A7a-97502420b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    
-- **Currently I am coding in JavaScript!** 😉
-- **I am front-end developer and I pretend learn more areas in coding world**🌐
-- **I study Information System in Estadual Tocantins State University** 🌔
-- **I like games, codes, musics, live streams 💥**
   
     
 ```ts
