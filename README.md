@@ -14,8 +14,7 @@
 </div>
 
  ![Streak](https://streak-stats.demolab.com/?user=JoaoIto&theme=codeSTACKr)
-  
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JoaoIto&&bg_color=000&color=e2fdff&line=ff8c00&point=ffffff&area=true&hide_border=true)](https://github.com/JoaoIto/github-readme-activity-graph) 
+ 
 
 ![Snake animation](https://github.com/JoaoIto/JoaoIto/blob/output/github-contribution-grid-snake.svg)
 
