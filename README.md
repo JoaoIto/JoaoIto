@@ -35,37 +35,28 @@
   
     
 ```ts
-interface User {
-    name: string;
-    age: number;
-    code: string[];
-    dev: (
-    coffee: string, 
-    music: string) 
-    => string;
+interface IUser {
+  name: string;
+  age: number;
+  code: string[];
+  dev: (coffee: string, music: string) => string;
 }
 
-const user: User = {
-    name: "JoaoIto",
-    age: 17,
-    code: [
-        "JavaScript", 
-        "TypeScript", 
-        "Java", 
-        "Python"
-          ],
-    dev: function(
-    coffee: string, 
-    music: string): 
-    string {
-        this.coffee = coffee;
-        this.music = music;
+class User implements IUser {
+  public name: string;
+  public age: number;
+  public code: string[];
+  public dev: (coffee: string, music: string) => string;
 
-        const animation;
-        animation = coffee + music;
+  constructor(name: string, age: number, code: string[], dev: (coffee: string, music: string) => string) {
+    this.name = name;
+    this.age = age;
+    this.code = code;
+    this.dev = dev;
+  }
+}
 
-        return "It's on code! ;)";
-    }
-};
-
+const user = new User('Joao', 17, ['JavaScript', 'TypeScript', 'Java', 'Python'], (coffee: string, music: string) => {
+  return `Coding with ${coffee} and ${music}!`;
+});
 ```
