@@ -1,10 +1,9 @@
 ## Hey!! I am Joao!😊
 
-- **Currently I am coding in JavaScript!** 😉
-- **I am front-end developer and I pretend learn more areas in coding world**🌐
-- **I study Information System in Estadual Tocantins State University** 🌔
-- **I like games, codes, musics, live streams 💥**
-
+- **Web Developer using Next.js mainly**
+- **Software Enginner Front-End in Tocantins Science and Technology Support Foundation**🌐
+- **Currently working code with TypeScript and JavaScript** 😉
+- **Study Information System in Estadual Tocantins State University** 🌔
 
  <div>
   <a href="https://github.com/JoaoIto">
@@ -22,8 +21,12 @@
     
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/npm/types/typescript?label=%7C&logo=typescript&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
     
  ## Social:
