@@ -13,9 +13,6 @@
 </div>
 
  ![Streak](https://streak-stats.demolab.com/?user=JoaoIto&theme=codeSTACKr)
- 
-
-![Snake animation](https://github.com/JoaoIto/JoaoIto/blob/output/github-contribution-grid-snake.svg)
 
  ## Techs:
     
