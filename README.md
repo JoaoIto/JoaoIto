@@ -1,6 +1,6 @@
 ## Hey!! I am Joao!😊
 
-- **Web Developer using Next.js mainly using in back-end Nest.js and Java Quarkus, express. MongoDB NOSQL, or MySQL**
+- **Web Developer using Next.js mainly using in back-end Nest.js and Java Quarkus, express. MongoDB NOSQL, MySQL ro Postgrees**
 - **Software Enginner Front-End in Tocantins Science and Technology Support Foundation**🌐
 - **Currently working code with TypeScript and JavaScript** 😉
 - **Study Information System in Estadual Tocantins State University** 🌔
