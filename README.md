@@ -56,7 +56,7 @@ class User implements IUser {
   }
 }
 
-const user = new User('Joao', 17, ['JavaScript', 'TypeScript', 'Java', 'Python'], (coffee: string, music: string) => {
+const user = new User('Joao', 18, ['JavaScript', 'TypeScript', 'Java', 'Python'], (coffee: string, music: string) => {
   return `Coding with ${coffee} and ${music}!`;
 });
 ```
