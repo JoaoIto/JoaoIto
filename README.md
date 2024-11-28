@@ -1,10 +1,25 @@
-## Hey!! I am Joao!😊
+### 🌟 Hey! Eu sou o João! 😊  
 
-- **Web Developer Next.js mainly using in back-end Nest.js and express**. But I code in **Java, Quarkus**.
-Databases, I use **MongoDB NOSQL, MySQL ro Postgrees**
-- **Software Enginner Front-End** in Tocantins Science and Technology Support Foundation🌐
-- Currently working code with **TypeScript and JavaScript** 😉
-- Study Information System in **Estadual Tocantins State University** 🌔
+Apaixonado por tecnologia, transformo ideias em código que conecta pessoas e resolve problemas. 🚀  
+Atuo como **desenvolvedor fullstack** com foco em **Node.js**, **React.js** e **TypeScript**, criando aplicações robustas e interfaces incríveis.  
+Domino **bancos de dados** como **MongoDB**, **PostgreSQL** e **MySQL**, sempre buscando eficiência e escalabilidade.  
+Minha jornada como desenvolvedor é guiada pela curiosidade e pelo desafio de aprender e evoluir constantemente.  
+Graduando em **Sistemas de Informação** pela **Universidade Estadual do Tocantins**, estou sempre pronto para inovar e entregar soluções que fazem a diferença.  
+Desenvolvedor Fullstack Web na Hust App, plataforma de automação e gestão de atendimentos online para empresas. 🚀
+
+---
+
+### 🌟 Hey! I’m João! 😊  
+
+Passionate about technology, I turn ideas into code that connects people and solves problems. 🚀  
+As a **fullstack developer**, I specialize in **Node.js**, **React.js**, and **TypeScript**, building robust applications and stunning interfaces.  
+I have strong expertise in **databases** like **MongoDB**, **PostgreSQL**, and **MySQL**, always aiming for efficiency and scalability.  
+My journey as a developer is driven by curiosity and the constant challenge of learning and evolving.  
+An **Information Systems** undergraduate at **Tocantins State University**, I’m always ready to innovate and deliver impactful solutions.  
+Fullstack Web Developer at Hust App, an online service automation and management platform for businesses. 🚀
+
+---
+
 
  <div>
   <a href="https://github.com/JoaoIto">
