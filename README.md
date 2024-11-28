@@ -62,29 +62,25 @@ Fullstack Web Developer at Hust App, an online service automation and management
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-p%C3%B3voa-fran%C3%A7a-97502420b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
     
-```ts
-interface IUser {
-  name: string;
-  age: number;
-  code: string[];
-  dev: (coffee: string, music: string) => string;
+```tsx
+// pages/index.tsx (Next.js)
+import { useEffect, useState } from 'react';
+
+export default function Home() {
+  const [message, setMessage] = useState('');
+
+  useEffect(() => {
+    fetch('/api/message')
+      .then(res => res.json())
+      .then(data => setMessage(data.message));
+  }, []);
+
+  return <h1>{message}</h1>;
 }
 
-class User implements IUser {
-  public name: string;
-  public age: number;
-  public code: string[];
-  public dev: (coffee: string, music: string) => string;
-
-  constructor(name: string, age: number, code: string[], dev: (coffee: string, music: string) => string) {
-    this.name = name;
-    this.age = age;
-    this.code = code;
-    this.dev = dev;
-  }
+// pages/api/message.ts (Next.js API route)
+export default function handler(req, res) {
+  res.status(200).json({ message: 'João with React + Node.js magic!' });
 }
 
-const user = new User('Joao', 18, ['JavaScript', 'TypeScript', 'Java', 'Python'], (coffee: string, music: string) => {
-  return `Coding with ${coffee} and ${music}!`;
-});
 ```
