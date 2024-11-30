@@ -1,19 +1,3 @@
-### 🌟 Hey! Eu sou o João! 😊  
-
-Apaixonado por tecnologia, transformo ideias em código que conecta pessoas e resolve problemas. 🚀  
-
-Atuo como **desenvolvedor fullstack** com foco em **Node.js**, **React.js** e **TypeScript**, criando aplicações robustas e interfaces incríveis.  
-
-Domino **bancos de dados** como **MongoDB**, **PostgreSQL** e **MySQL**, sempre buscando eficiência e escalabilidade.  
-
-Minha jornada como desenvolvedor é guiada pela curiosidade e pelo desafio de aprender e evoluir constantemente.  
-
-Graduando em **Sistemas de Informação** pela **Universidade Estadual do Tocantins**, estou sempre pronto para inovar e entregar soluções que fazem a diferença.  
-
-Desenvolvedor Fullstack Web na Hust App, plataforma de automação e gestão de atendimentos online para empresas. 🚀
-
----
-
 ### 🌟 Hey! I’m João! 😊  
 
 Passionate about technology, I turn ideas into code that connects people and solves problems. 🚀  
