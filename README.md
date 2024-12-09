@@ -2,15 +2,13 @@
 
 Passionate about technology, I turn ideas into code that connects people and solves problems. 🚀  
 
-As a **fullstack developer**, I specialize in **Node.js**, **React.js**, and **TypeScript**, building robust applications and stunning interfaces.  
+As a **fullstack developer**, I specialize in **Node.js**, **React.js**,**Next.js** and **TypeScript**, building robust applications and stunning interfaces.  
 
-I have strong expertise in **databases** like **MongoDB**, **PostgreSQL**, and **MySQL**, always aiming for efficiency and scalability.  
-
-My journey as a developer is driven by curiosity and the constant challenge of learning and evolving.  
+Expertise in **databases** like **MongoDB**, **PostgreSQL**, and **MySQL**, always aiming for efficiency and scalability.  
 
 An **Information Systems** undergraduate at **Tocantins State University**, I’m always ready to innovate and deliver impactful solutions.  
 
-Fullstack Web Developer at Hust App, an online service automation and management platform for businesses. 🚀
+**Fullstack Web Developer** at **Hust App**, an online service automation and management platform for businesses. 🚀
 
 ---
 
