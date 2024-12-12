@@ -15,12 +15,12 @@ An **Information Systems** undergraduate at **Tocantins State University**, I’
 
  <div>
   <a href="https://github.com/JoaoIto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoIto&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoIto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoIto&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoIto&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
- ![Streak](https://streak-stats.demolab.com/?user=JoaoIto&theme=codeSTACKr)
+ ![Streak](https://streak-stats.demolab.com/?user=JoaoIto&theme=algolia)
 
  ## Techs:
     
@@ -49,7 +49,7 @@ An **Information Systems** undergraduate at **Tocantins State University**, I’
 import { useEffect, useState } from 'react';
 
 export default function Home() {
-  const [message, setMessage] = useState('');
+  const [message, setMessage] = useState<string>('');
 
   useEffect(() => {
     fetch('/api/message')
