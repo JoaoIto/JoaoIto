@@ -8,10 +8,9 @@ Expertise in **databases** like **MongoDB**, **PostgreSQL**, and **MySQL**, alwa
 
 An **Information Systems** undergraduate at **Tocantins State University**, I’m always ready to innovate and deliver impactful solutions.  
 
-**Fullstack Web Developer** at **Hust App**, an online service automation and management platform for businesses. 🚀
+**Fullstack Web Developer** at **JoaoIto**, an online service automation and management platform for businesses. 🚀
 
 ---
-
 
  <div>
   <a href="https://github.com/JoaoIto">
@@ -19,8 +18,6 @@ An **Information Systems** undergraduate at **Tocantins State University**, I’
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoIto&layout=compact&langs_count=7&theme=algolia"/>
 </div>
-
- ![Streak](https://streak-stats.demolab.com/?user=JoaoIto&theme=algolia)
 
  ## Techs:
     
