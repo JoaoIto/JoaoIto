@@ -13,16 +13,11 @@ An **Information Systems** undergraduate at **Tocantins State University**, I’
 ---
 
  <div>
-  <a href="https://github.com/JoaoIto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoIto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
  
 ![](https://github-readme-stats.vercel.app/api?username=Joaoito&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Joaoito&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaoito&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
- 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoIto&layout=compact&langs_count=7&theme=algolia"/>
-</div>
 
  ## Techs:
     
