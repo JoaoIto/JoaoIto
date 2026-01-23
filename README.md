@@ -56,47 +56,46 @@ An **Information Systems** undergraduate at **Tocantins State University**, I’
   />
 </picture>
  
-    
-```tsx
-// pages/index.tsx (Next.js)
-import { useEffect, useState } from 'react';
-
-export default function Home() {
-  const [message, setMessage] = useState<string>('');
-
-  useEffect(() => {
-    fetch('/api/message')
-      .then(res => res.json())
-      .then(data => setMessage(data.message));
-  }, []);
-
-  return <h1>{message}</h1>;
-}
-
-// pages/api/message.ts (Next.js API route)
-export default function handler(req, res) {
-  res.status(200).json({ message: 'João with React + Node.js magic!' });
-}
-
-```
-
 
 ```tsx
-// hooks/use-profile.ts
-import { useMemo } from 'react';
+// src/profile/JoaoVictor.tsx
+import { NextPage } from 'next';
+import { BookSports, DevWorks } from '@/ventures';
 
-export const useJoaoVictor = () => {
-  const skills = useMemo(() => ({
-    languages: ['TypeScript', 'Node.js'],
-    frameworks: ['Next.js', 'NestJS'],
-    [span_0](start_span)currentFocus: 'AI-Driven SaaS Architecture' //[span_0](end_span)
-  }), []);
+interface TechStack {
+  core: ["TypeScript", "Node.js", "React.js", "Next.js"];
+  backend: ["Nest.js", "Java", "Spring Boot", "Python"];
+  cloud_ai: ["AWS Lambda", "OpenAI", "Whisper", "n8n", "Notebook"];
+}
 
-  return {
-    name: 'João Victor',
-    [span_1](start_span)status: 'Building scalable solutions at BookSports', //[span_1](end_span)
-    ...skills
-  };
+export const MyProfile: NextPage = () => {
+  return (
+    <div className="developer-profile">
+      <Header 
+        name="João Victor Póvoa França" 
+        role="FullStack Tech Lead & Partner"
+      />
+
+      <Ventures>
+        <BookSports 
+          category="Smart Sports App Company ⚽"
+          role="Partner & Lead Dev"
+          stack={['Next.js', 'Nest.js', 'AI Agents', 'SaaS']}
+        />
+        <DevWorks 
+          category="Intelligent Scale Systems 🚀"
+          description="Building high-performance software & content."
+          role="Founder"
+        />
+      </Ventures>
+
+      <CodeIdentity 
+        mainStack={["TypeScript", "Node.js", "React", "NestJS"]}
+        database={["MongoDB", "PostgreSQL", "Prisma ORM", "MySQL"]}
+        architecture={["Microservices", "Serverless", "Restful", "Event-Driven"]}
+      />
+    </div>
+  );
 };
 
 ```
