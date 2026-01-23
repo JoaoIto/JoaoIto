@@ -79,3 +79,24 @@ export default function handler(req, res) {
 }
 
 ```
+
+
+```tsx
+// hooks/use-profile.ts
+import { useMemo } from 'react';
+
+export const useJoaoVictor = () => {
+  const skills = useMemo(() => ({
+    languages: ['TypeScript', 'Node.js'],
+    frameworks: ['Next.js', 'NestJS'],
+    [span_0](start_span)currentFocus: 'AI-Driven SaaS Architecture' //[span_0](end_span)
+  }), []);
+
+  return {
+    name: 'João Victor',
+    [span_1](start_span)status: 'Building scalable solutions at BookSports', //[span_1](end_span)
+    ...skills
+  };
+};
+
+```
