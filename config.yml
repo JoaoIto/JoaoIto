@@ -2,26 +2,40 @@ username: "JoaoIto"
 
 profile:
   name: "João Victor Póvoa França"
-  tagline: "Fullstack Tech Lead & Partner 🚀"
+  tagline: "Fullstack Software Enginner 🚀"
 
 galaxy_arms:
   - name: "Frontend"
     color: "synapse_cyan"
-    tech: ["React.js", "Next.js", "TypeScript"]
+    tech: ["React.js", "Next.js", "TypeScript", "JavaScript"]
   - name: "Backend"
     color: "dendrite_violet"
-    tech: ["Node.js", "Nest.js", "Java"]
+    tech: ["Node.js", "Nest.js", "Java", "Python"]
   - name: "Data & Cloud"
     color: "axon_amber"
-    tech: ["MongoDB", "PostgreSQL", "AWS"]
+    tech: ["MongoDB", "PostgreSQL", "MySQL", "AWS"]
 
 projects:
-  - repo: "BookSports" 
-    arm: 0
-    description: "Smart Sports App Company ⚽"
-  - repo: "DevWorks"
+  - repo: "node-balancer"
     arm: 1
-    description: "Intelligent Scale Systems 🚀"
-  - repo: "FinancePro"
+    description: "API escalável com Node.js, MongoDB e Nginx."
+  
+  - repo: "telemetry-monitoring"
     arm: 2
-    description: "Personal finance SaaS application"
+    description: "Laboratório prático de infraestrutura de redes como serviço."
+  
+  - repo: "CadastroProgramas-Unitins"
+    arm: 0
+    description: "Sistema de cadastro de programas desenvolvido na UNITINS."
+  
+  - repo: "Sistemas-De-Informacao"
+    arm: 0
+    description: "Atividades, estudos e projetos do curso de Sistemas de Informação."
+  
+  - repo: "facilita-juridico_server"
+    arm: 1
+    description: "Sistema de gerenciamento para a área jurídica."
+  
+  - repo: "DewWorks/financeApp"
+    arm: 2
+    description: "FinancePro: Aplicação SaaS para finanças pessoais."
