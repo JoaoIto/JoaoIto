@@ -263,14 +263,14 @@
 
 
   <!-- 9. Project stars -->
-    <circle cx="464.1" cy="86.5" r="4" fill="#00d4ff" filter="url(#star-glow-0)">
-      <animate attributeName="opacity" values="0.6;1;0.6" dur="4s" begin="0.0s" repeatCount="indefinite"/>
-    </circle>
     <circle cx="623.9" cy="202.4" r="4" fill="#a78bfa" filter="url(#star-glow-1)">
       <animate attributeName="opacity" values="0.6;1;0.6" dur="4s" begin="0.8s" repeatCount="indefinite"/>
     </circle>
     <circle cx="171.4" cy="180.6" r="4" fill="#ffb020" filter="url(#star-glow-2)">
       <animate attributeName="opacity" values="0.6;1;0.6" dur="4s" begin="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="464.1" cy="86.5" r="4" fill="#00d4ff" filter="url(#star-glow-0)">
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="4s" begin="0.0s" repeatCount="indefinite"/>
     </circle>
 
   <!-- 10. Orbital rings -->
@@ -299,6 +299,6 @@
 
   <!-- 12. Profile text -->
   <text x="425" y="26" text-anchor="middle" fill="#f1f5f9" font-size="20" font-weight="bold" font-family="sans-serif">João Victor Póvoa França</text>
-  <text x="425" y="44" text-anchor="middle" fill="#94a3b8" font-size="12" font-family="sans-serif">Fullstack Tech Lead &amp; Partner 🚀</text>
+  <text x="425" y="44" text-anchor="middle" fill="#94a3b8" font-size="12" font-family="sans-serif">Fullstack Software Enginner 🚀</text>
   <text x="425" y="268" text-anchor="middle" fill="#64748b" font-size="11" font-family="monospace" font-style="italic"></text>
 </svg>
