@@ -1,0 +1,27 @@
+github:
+  username: "JoaoIto"
+
+profile:
+  name: "João Victor Póvoa França"
+  tagline: "Fullstack Software Enginner🚀"
+
+# As três áreas de foco que formarão os braços espirais da sua galáxia
+galaxy_arms:
+  - name: "Frontend"
+    color: "synapse_cyan"
+    tech: ["React.js", "Next.js", "TypeScript"]
+  - name: "Backend"
+    color: "dendrite_violet"
+    tech: ["Node.js", "Nest.js", "Express.js"]
+  - name: "Data & Cloud"
+    color: "axon_amber"
+    tech: ["MongoDB", "PostgreSQL", "AWS"]
+
+# Destaques orbitais (troque os nomes dos repositórios pelos exatos que estão no seu GitHub)
+projects:
+  - repo: "DevWorks"
+    arm: 0
+    description: "Intelligent Scale Systems 🚀"
+  - repo: "FinancePro"
+    arm: 1
+    description: "Personal finance SaaS application"
