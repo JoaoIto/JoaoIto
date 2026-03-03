@@ -4,11 +4,11 @@
 
 ### 🌟 João Victor | Fullstack Developer
 
-🚀 **Mission:** Building robust apps & stunning interfaces.
-💻 **Stack:** Node.js, React.js, Next.js, TypeScript.
-🗄️ **Data:** MongoDB, PostgreSQL, MySQL.
-🎓 **Academic:** Information Systems @ UNITINS.
-💼 **Experience:** Founder & Dev @ JoaoIto.
+- 🚀 **Mission:** Building robust apps & stunning interfaces.
+- 💻 **Stack:** Node.js, React.js, Next.js, TypeScript.
+- 🗄️ **Data:** MongoDB, PostgreSQL, MySQL.
+- 🎓 **Academic:** Information Systems @ UNITINS.
+- 💼 **Experience:** Founder & Dev @ JoaoIto.
 
 ---
 
