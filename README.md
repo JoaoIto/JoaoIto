@@ -6,7 +6,7 @@
 * **Stack:** TypeScript, Node.js, Next.js, React.js, Python, Java.
 * **Data:** PostgreSQL, MongoDB, MySQL, Redis.
 * **Academic:** Information Systems @ UNITINS.
-* **Experience:** Architect @ DevWorks (Lead of BillLens) | Full-Stack AI @ BookSports.
+* **Experience:** Architect @ DevWorks (Lead of FinancePro) | Full-Stack AI
 
 ## Contact & Social:
     
