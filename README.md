@@ -33,6 +33,10 @@
   <a href="http://gredes.ifto.edu.br/certificados_de_capacita%E7%E3o_IA/202320233" target="_blank">
     <img src="https://img.shields.io/badge/Huawei-ICT_Specialist_AI-FF0000?style=for-the-badge&logo=huawei&logoColor=white" alt="Huawei ICT AI">
   </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/JoaoIto/aws-skills" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-Cloud_%26_AI_Skills-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS Cloud & AI Skills">
+  </a>
 </div>
 
 ---
