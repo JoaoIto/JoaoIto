@@ -17,25 +17,29 @@
 ## Certifications:
 
 <div align="left">
+  <a href="https://aws.amazon.com/verification" target="_blank">
+    <img src="https://raw.githubusercontent.com/JoaoIto/JoaoIto/refs/heads/main/assets/images/aws-certified-ai-practitioner.png" width="120" alt="AWS Certified AI Practitioner">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/71009d90-d6a4-48b8-83fc-44f5cfa402ea/public_url" target="_blank">
     <img src="https://github.com/JoaoIto/JoaoIto/blob/main/assets/images/google-ai-professional-certificate.png" width="120" alt="Google AI Professional">
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/earner/earned/badge/22ab4c3c-d3ea-4dce-ae6d-25f5c920859e" target="_blank">
     <img src="https://github.com/JoaoIto/JoaoIto/blob/main/assets/images/google-business-intelligence-professional-certifica.png" width="120" alt="Google BI Professional">
   </a>
   &nbsp;&nbsp;&nbsp;
   <!-- Bottom Row: Rectangular Badges -->
+ <a href="https://github.com/JoaoIto/aws-skills" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-Certified_AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified AI Practitioner">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/JoaoIto/mongodb-skills" target="_blank">
     <img src="https://img.shields.io/badge/MongoDB-Node.js_Developer_Path-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Node.js Developer">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="http://gredes.ifto.edu.br/certificados_de_capacita%E7%E3o_IA/202320233" target="_blank">
     <img src="https://img.shields.io/badge/Huawei-ICT_Specialist_AI-FF0000?style=for-the-badge&logo=huawei&logoColor=white" alt="Huawei ICT AI">
-  </a>
-   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/JoaoIto/aws-skills" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-Cloud_%26_AI_Skills-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Cloud & AI Skills">
   </a>
 </div>
 
